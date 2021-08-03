@@ -1,5 +1,7 @@
 import 'package:flutter_travel_ui_starter/models/activity_model.dart';
 
+import 'activity_model.dart';
+
 class Destination {
   String imageUrl;
   String city;
