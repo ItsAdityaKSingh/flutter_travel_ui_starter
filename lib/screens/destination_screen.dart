@@ -145,7 +145,7 @@ class _DestinationScreenState extends State<DestinationScreen> {
                         borderRadius: BorderRadius.circular(20.0),
                       ),
                       child: Padding(
-                        padding: EdgeInsets.fromLTRB(100.0, 20.0, 20.0, 20.0),
+                        padding: EdgeInsets.fromLTRB(100.0, 13.0, 20.0, 20.0),
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           crossAxisAlignment: CrossAxisAlignment.start,
